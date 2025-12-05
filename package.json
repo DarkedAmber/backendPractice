@@ -14,7 +14,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "nodemon": "^3.1.11",
     "touch": "^3.1.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.7.4",
+    "nodemon": "^3.1.11"
   }
 }
